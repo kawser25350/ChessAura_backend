@@ -1,1 +1,1 @@
-ChessAura backend — a Django REST API powering a chess analysis platform with user authentication, login/logout, Chess.com and Lichess game integration, PGN/FEN processing, Stockfish-powered game and position analysis, and interactive chess variations.
+
